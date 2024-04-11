@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Vasanth Kumar and I'm a Web Developer from Kanchipuram.</h2>
+<h2 align="center">I'm Vasanth Kumar and a Web Developer from Kanchipuram.</h2>
 
 ###
 
