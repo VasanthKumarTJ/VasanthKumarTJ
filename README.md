@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @VasanthKumarTJ<br>👀 upcoming web Developer<br>🌱 I’m currently learning Full stack web Develepment</p>
+<p align="left">👋 Hi, I’m @VasanthKumarTJ<br>👀 upcoming Software Developer<br>🌱 I’m currently learning Full stack web Develepment</p>
 
 ###
 
